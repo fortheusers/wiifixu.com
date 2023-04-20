@@ -6,7 +6,9 @@ On this website, you'll be walked through a troubleshooter to diagnose the probl
 
 ## So, what's wrong with your Wii U?
 
-#### [Error code 160-0103, "Problem with the system memory" when booting <i class="fa fa-arrow-circle-right fa-lg"></i>](cbhc-brick/index.md)
-#### [No image is displayed when turning on either TV or gamepad <i class="fa fa-arrow-circle-right fa-lg"></i>](no-display.md)
-#### [Error code 160-0101 when booting <i class="fa fa-arrow-circle-right fa-lg"></i>](nand-brick.md)
-#### [Some other issue <i class="fa fa-arrow-circle-right fa-lg"></i>](misc.md)
+#### [➡️ Error code 160-0103, "Problem with the system memory" when booting](cbhc-brick/index.md)
+#### [➡️ No image is displayed when turning on either TV or gamepad](no-display.md)
+#### [➡️ Error code 160-0101 when booting](nand-brick.md)
+#### [➡️ Some other issue](misc.md)
+
+**Notice:** This website is in progress! If you would like to contribute or make changes to anything, please [PR the project on Github](https://github.com/fortheusers/wiifixu.com). Thank you!

@@ -4,6 +4,6 @@ This error code is displayed when your Wii U is unable to open the installed tit
 
 But good news! As of 2022, this error code can be fixed, thanks to Gary's udpih exploit. To get started, you will need one of the following devices:
 
-#### [A hacked Nintendo Switch <i class="fa fa-arrow-circle-right fa-lg"></i>](udpih-switch.md)
-#### [A Raspberry Pi Pico <i class="fa fa-arrow-circle-right fa-lg"></i>](udpih.md)
-#### [I don't have either of these! <i class="fa fa-arrow-circle-right fa-lg"></i>](neither.md)
+#### [➡️ Using a hacked Nintendo Switch](udpih-switch.md)
+#### [➡️ Using a Raspberry Pi Pico](udpih.md)
+#### [➡️ I don't have either of these!](neither.md)
