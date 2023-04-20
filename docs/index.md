@@ -1,17 +1,12 @@
-# Welcome to MkDocs
+# WiiFixU
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+Welcome to WiiFixU! We'll help fix your Wii U!
 
-## Commands
+On this website, you'll be walked through a troubleshooter to diagnose the problem with your console, and potential steps to fix it. This site should be able to help with *any* issues you are facing, including CBHC (Coldboot Haxchi) and system.xml home menu bricks.
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## So, what's wrong with your Wii U?
 
-## Project layout
-
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+#### [Error code 160-0103, "Problem with the system memory" when booting <i class="fa fa-arrow-circle-right fa-lg"></i>](cbhc-brick/index.md)
+#### [No image is displayed when turning on either TV or gamepad <i class="fa fa-arrow-circle-right fa-lg"></i>](no-display.md)
+#### [Error code 160-0101 when booting <i class="fa fa-arrow-circle-right fa-lg"></i>](nand-brick.md)
+#### [Some other issue <i class="fa fa-arrow-circle-right fa-lg"></i>](misc.md)
