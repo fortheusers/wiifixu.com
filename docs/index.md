@@ -1,5 +1,7 @@
 # WiiFixU
 
+When you try you're best but you don't succeed...
+
 Welcome to WiiFixU! We'll help fix your Wii U!
 
 On this website, you'll be walked through a troubleshooter to diagnose the problem with your console, and potential steps to fix it. This site should be able to help with *any* issues you are facing, including CBHC (Coldboot Haxchi) and system.xml home menu bricks.
