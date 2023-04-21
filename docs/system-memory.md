@@ -8,3 +8,5 @@ Choose the option below, that matches your error screen:
 
 #### [➡️ Begins with numbers/digits](cbhc-brick/index.md)
 #### [➡️ Begins with XXXX- (like in the image)](misc.md)
+
+**Notice:** This website is in progress! If you would like to contribute or make changes to anything, please [PR the project on Github](https://github.com/fortheusers/wiifixu.com). Thank you!
