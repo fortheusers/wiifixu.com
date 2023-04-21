@@ -1,6 +1,6 @@
 # WiiFixU
 
-When you try you're best but you don't succeed...
+[When you try your best but you don't succeed...](https://www.youtube.com/watch?v=k4V3Mo61fJM)
 
 Welcome to WiiFixU! We'll help fix your Wii U!
 
