@@ -1,5 +1,4 @@
 # UDPIH via Nintendo Switch Payload
-
 This is a payload to run [UDPIH](https://github.com/GaryOderNichts/udpih) using a hacked Nintendo Switch.
 
 ## Instructions
